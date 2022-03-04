@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AppEDES"
+    }
+  },
+  "defaultProject": "AppEDES",
+  "cli": {
+    "analytics": false
+  }
 }
